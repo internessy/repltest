@@ -13,3 +13,8 @@ struct ViewState {
   var zoom : Double
   var origin : Point2D
 }
+
+struct ArtObject
+struct DrawingState {
+  var artObjects : []
+}
